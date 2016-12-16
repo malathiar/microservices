@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	DefaultPort = 8000
+	DefaultPort = 8001
 	moviesPath  = "database/movies.json"
 )
 
