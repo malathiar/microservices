@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	DefaultPort   = 8000
+	DefaultPort   = 8002
 	showtimesPath = "database/showtimes.json"
 )
 
