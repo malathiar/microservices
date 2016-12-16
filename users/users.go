@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	DefaultPort = 8000
+	DefaultPort = 8004
 	BookingsURL = "http://172.17.0.1:8003/bookings/%s"
 	MoviesURL   = "http://172.17.0.1:8001/movies/%s"
 	usersPath   = "database/users.json"
